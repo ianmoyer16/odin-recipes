@@ -1,1 +1,1 @@
-# odin-recipes
+Use basic html to create webpage to display recipes. Utilize links, images, ordered and unordered lsits, paragraphs, bold and emphasized text, and various elements within boilerplate. 
